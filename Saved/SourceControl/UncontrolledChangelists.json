@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Background/T_Field.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_0.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_1.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_2.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_3.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_4.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_5.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_6.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_7.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_8.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_9.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Blueprint/BP_Runner.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Input/IMC_Runner.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Blueprint/GM_Runner.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Input/Actions/AI_PowerLeft.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Input/Actions/AI_PowerRight.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Maps/MAP_Debug.umap",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Blueprint/Enums/E_Input.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Curves/C_SpeedIncreaseRamp.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Curves/C_SpeedDecrease.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Sounds/S_Step_1.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Sounds/S_Step_2.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Sounds/Cue_Footstep.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Blueprint/BP_Field.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Blueprint/BP_Field_old.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Maps/MAP_Field.umap",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Blueprint/AI/AIC_Runner.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Blueprint/BP_Goal.uasset",
+				"C:/Ginzburg/Production/Unreal/Course_Unreal2D/MashRunner/Content/Maps/MAP_Field1.umap"
+			]
+		}
+	]
+}
